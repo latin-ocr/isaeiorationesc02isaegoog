@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./isaeiorationesc02isaegoog_0008.png"; bbox 0 0 2466 3914; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 106 968 915 1190">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 106 968 915 1190">
+     <span class='ocr_line' id='line_1_1' title="bbox 106 968 915 1190; baseline 0.002 -48"><span class='ocrx_word' id='word_1_1' title='bbox 106 968 400 1144; x_wconf 30' lang='lat' dir='ltr'><strong>&#39;FRIDERIGO&#39;</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 419 1046 657 1145; x_wconf 78' lang='lat' dir='ltr'><strong>LUDOVIOO</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 691 1048 915 1190; x_wconf 64' lang='lat' dir='ltr'>Esssssssswo</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 326 1318 715 1383">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 326 1318 715 1383">
+     <span class='ocr_line' id='line_1_2' title="bbox 326 1318 715 1383; baseline 0.003 -2"><span class='ocrx_word' id='word_1_4' title='bbox 326 1318 715 1383; x_wconf 77' lang='lat' dir='ltr'>NEOSTRELITIENSI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 41 1730 995 1869">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 41 1730 995 1869">
+     <span class='ocr_line' id='line_1_3' title="bbox 41 1730 995 1869; baseline -0.004 0"><span class='ocrx_word' id='word_1_5' title='bbox 41 1769 230 1869; x_wconf 76' lang='lat' dir='ltr'><strong>GAROLO</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 276 1769 481 1866; x_wconf 71' lang='lat' dir='ltr'><strong>HENfflco</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 525 1767 804 1866; x_wconf 68' lang='grc' dir='ltr'>ΑΒΕιΒΕΒΤο</span> <span class='ocrx_word' id='word_1_8' title='bbox 846 1730 995 1865; x_wconf 72' lang='lat' dir='ltr'>upsw</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 415 2040 626 2118">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 415 2040 626 2118">
+     <span class='ocr_line' id='line_1_4' title="bbox 415 2040 626 2118; baseline 0 -16"><span class='ocrx_word' id='word_1_9' title='bbox 415 2040 626 2118; x_wconf 78' lang='lat' dir='ltr'>LIPSIENSI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 179 2538 772 2655">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 179 2538 772 2655">
+     <span class='ocr_line' id='line_1_5' title="bbox 179 2538 772 2655; baseline -0.008 -34"><span class='ocrx_word' id='word_1_10' title='bbox 179 2644 181 2655; x_wconf 17' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_11' title='bbox 271 2539 509 2620; x_wconf 75' lang='lat' dir='ltr'>oARoLUs</span> <span class='ocrx_word' id='word_1_12' title='bbox 522 2575 526 2589; x_wconf 76' lang='lat'><strong>,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 541 2538 772 2618; x_wconf 68' lang='lat' dir='ltr'><strong>somn.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1238 3914">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1238 3914">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1238 3914; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1238 3914; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
